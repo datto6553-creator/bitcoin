@@ -1,0 +1,5 @@
+{
+  "name": "BitGuard - Secure Bitcoin Wallet",
+  "description": "A non-custodial Bitcoin wallet with client-side encryption, BIP39 mnemonic generation, and HD wallet derivation.",
+  "requestFramePermissions": []
+}
